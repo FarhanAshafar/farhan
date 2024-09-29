@@ -2,8 +2,7 @@
     <head>
         <title>Mangatt!!</title>
 
-        <body background="hem.jpg">
-    </head>    
+        <body background="hem.jpg">   
         <br><h1 text align="Center"><font face="lucida calligraphy" color="#FF1493">SEMANGAT HAID DAY 1 NYA</h1></font>
         <h3 text align="center"><font face="lucida calligraphy" color="#FF1493">Jangan cape-cape</h3></font>
         <h3 text align="center"><font face="lucida calligraphy" color="#FF1493">Istirahat aja tidur kek...</font></h3>
