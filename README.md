@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Mangatt!!</title>
+
+        <body background="hem.jpg">
+    </head>    
+        <br><h1 text align="Center"><font face="lucida calligraphy" color="#FF1493">SEMANGAT HAID DAY 1 NYA</h1></font>
+        <h3 text align="center"><font face="lucida calligraphy" color="#FF1493">Jangan cape-cape</h3></font>
+        <h3 text align="center"><font face="lucida calligraphy" color="#FF1493">Istirahat aja tidur kek...</font></h3>
+        <P align="center"><img src="Uhuyy.jpg" width=250 height=230></P>
+        <h3 text align="center"><font face="lucida calligraphy" color="#FF1493">Kangen inii gaaa??</font></h3>
+        <P align="center">
+        <video width="320" height="240" controls>
+            <source src="Jogja.mp4" type=video/mp4>
+            </video></P>
+        <h3 align="center"><font face="lucida calligraphy" color="#FF00FF">Semoga lain waktu bisa kesini lagii yaa :)</font></h3><br>
+        <h4 align="center"><font face="lucida calligraphy" color="white">Maap coodingan nya berantakan wkwk ngidee aja sebenernya</font></h4><br>
+        <h5 align="right"><font face="Bradley Hand ITC" color="white">@Farhansikha</font></h5>
+        <
+
+
+
+
+
+
+    </body>
+</html>        
+
+    
